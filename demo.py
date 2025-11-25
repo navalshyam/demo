@@ -1,1 +1,1 @@
-print("Hello, Welcome to INS")
+print("Hello, Welcome to ITMC")
